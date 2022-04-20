@@ -1,6 +1,6 @@
 {
   "index": "main",
-  "query": "host:Test*",
+  "query": "service:web*",
   "sort": "asc",
   "time": {
     "from": "2021-11-11T10:11:11+00:00",
